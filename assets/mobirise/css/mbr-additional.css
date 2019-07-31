@@ -872,11 +872,6 @@ body {
 .jq-selectbox:hover .jq-selectbox__trigger-arrow {
   border-top-color: #ff4f7b;
 }
-.cid-rxPig94bxf {
-  padding-top: 120px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
 #custom-html-0 {
   /* Type valid CSS here */
 }
@@ -888,6 +883,11 @@ body {
 #custom-html-0 p {
   font-size: 60px;
   color: #777;
+}
+.cid-rxPig94bxf {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #ffffff;
 }
 .cid-rxPgUR065o {
   padding-top: 90px;
